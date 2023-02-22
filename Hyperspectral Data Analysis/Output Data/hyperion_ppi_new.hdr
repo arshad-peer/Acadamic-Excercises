@@ -1,0 +1,18 @@
+ENVI
+description = {
+  Pixel Purity Index Results. Number of Iterations = 10,000. [Thu Feb 17
+  12:48:27 2022]}
+samples = 253
+lines   = 352
+bands   = 1
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+default stretch = 0.000000 1.000000 linear
+band names = {
+ PPI (Hyperion_mnf_15)}
+history = FLAASH 5.0.3 result (input file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\filter\rishikesh_bil, template file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\model

@@ -1,0 +1,26 @@
+ENVI
+description = {
+  Mixture Tuned Matched Filter Result [Thu Feb 17 16:50:24 2022]}
+samples = 253
+lines   = 352
+bands   = 12
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ MF Score (water [Blue] 841 points), MF Score (scrubs [Cyan] 887 points), 
+ MF Score (grassland [Yellow] 1254 points), 
+ MF Score (mixed forest [Sea Green] 177 points), 
+ MF Score (forest [Green] 852 points), 
+ MF Score (dryriverbed [Magenta] 83 points), 
+ Infeasibility (water [Blue] 841 points), 
+ Infeasibility (scrubs [Cyan] 887 points), 
+ Infeasibility (grassland [Yellow] 1254 points), 
+ Infeasibility (mixed forest [Sea Green] 177 points), 
+ Infeasibility (forest [Green] 852 points), 
+ Infeasibility (dryriverbed [Magenta] 83 points)}
+history = FLAASH 5.0.3 result (input file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\filter\rishikesh_bil, template file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\model

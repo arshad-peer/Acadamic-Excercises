@@ -1,0 +1,19 @@
+ENVI
+description = {
+  Spectral Angle Mapper Rule Images Result [Thu Feb 17 16:09:53 2022]}
+samples = 253
+lines   = 352
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 4
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Rule (water [Blue] 841 points), Rule (scrubs [Cyan] 887 points), 
+ Rule (grassland [Yellow] 1254 points), 
+ Rule (mixed forest [Sea Green] 177 points), 
+ Rule (forest [Green] 852 points), Rule (dryriverbed [Magenta] 83 points)}
+history = FLAASH 5.0.3 result (input file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\filter\rishikesh_bil, template file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\model

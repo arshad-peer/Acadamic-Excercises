@@ -1,0 +1,24 @@
+ENVI
+description = {
+  Spectral Angle Mapper Classification Result [Thu Feb 17 16:09:53 2022]}
+samples = 253
+lines   = 352
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 7
+class lookup = {
+   0,   0,   0,   0,   0, 255,   0, 255, 255, 255, 255,   0,  46, 139,  87,
+   0, 255,   0, 255,   0, 255}
+class names = {
+ Unclassified, water [Blue] 841 points, scrubs [Cyan] 887 points, 
+ grassland [Yellow] 1254 points, mixed forest [Sea Green] 177 points, 
+ forest [Green] 852 points, dryriverbed [Magenta] 83 points}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Sam (Hyperion_atmcorrected_rishikesh)}
+history = FLAASH 5.0.3 result (input file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\filter\rishikesh_bil, template file=C:\Users\varunkt1\Desktop\My Project\Rishikesh\hyperion\27NOV09\Processing\model
